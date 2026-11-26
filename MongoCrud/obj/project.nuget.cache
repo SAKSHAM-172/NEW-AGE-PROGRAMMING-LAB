@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "n45Qe/7I+AE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PRABHAT\\Desktop\\MongoCrud\\MongoCrud.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\fsharp.core\\10.1.403\\fsharp.core.10.1.403.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.0\\microsoft.extensions.logging.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\mongodb.bson\\3.13.0\\mongodb.bson.3.13.0.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\mongodb.driver\\3.13.0\\mongodb.driver.3.13.0.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\sharpcompress\\0.48.1\\sharpcompress.0.48.1.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\snappier\\1.3.1\\snappier.1.3.1.nupkg.sha512",
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

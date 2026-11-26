@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KtYS0mS7e/g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PRABHAT\\Desktop\\New folder\\StringProcessing\\StringProcessing.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PRABHAT\\.nuget\\packages\\fsharp.core\\10.1.403\\fsharp.core.10.1.403.nupkg.sha512"
+  ],
+  "logs": []
+}

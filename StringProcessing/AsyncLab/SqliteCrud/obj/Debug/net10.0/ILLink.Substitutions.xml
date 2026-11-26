@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="SqliteCrud">
+    <resource name="FSharpSignatureData.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationData.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.SqliteCrud" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.SqliteCrud" action="remove"></resource>
+  </assembly>
+</linker>

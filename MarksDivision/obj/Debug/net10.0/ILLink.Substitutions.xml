@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="MarksDivision">
+    <resource name="FSharpSignatureData.MarksDivision" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.MarksDivision" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.MarksDivision" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.MarksDivision" action="remove"></resource>
+    <resource name="FSharpOptimizationData.MarksDivision" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.MarksDivision" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.MarksDivision" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.MarksDivision" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.MarksDivision" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.MarksDivision" action="remove"></resource>
+  </assembly>
+</linker>

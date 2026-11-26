@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="MongoCrud">
+    <resource name="FSharpSignatureData.MongoCrud" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.MongoCrud" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.MongoCrud" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.MongoCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationData.MongoCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.MongoCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.MongoCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.MongoCrud" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.MongoCrud" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.MongoCrud" action="remove"></resource>
+  </assembly>
+</linker>
